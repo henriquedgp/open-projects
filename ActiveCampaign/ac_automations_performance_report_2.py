@@ -1,4 +1,4 @@
-# This code should be used after running automation1.py
+# This code should be used after running {ac_automations_performance_report_1.py}
 
 # Import libraries
 import datetime as dt
